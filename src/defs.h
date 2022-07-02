@@ -81,7 +81,7 @@
 #define ABS(x)				((x>0)?(x):(-x))
 
 // constants
-#define PI		3.14159265359
+#define PI		3.14159265359f
 
 //Math
 #define sq(x) ((x)*(x))
